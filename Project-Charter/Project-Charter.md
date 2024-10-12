@@ -39,16 +39,26 @@ Will be added later on
 
 
 
+## 4. Deliverables
+
+## 4.1 Gantt Chart
 
 
 
+## 5.0 Preliminary Budget
+
+## 5.1 Personnel Cost Per Sprint
+
+## 5.2 Total Personnel Cost
+
+## 5.3 Fixed Costs
+
+## 5.4 Contigency
+
+## 5.5 Total Estimated Cost
 
 
-
-
-
-
-
+## 6. Organization/Stakeholders
 
 
 
