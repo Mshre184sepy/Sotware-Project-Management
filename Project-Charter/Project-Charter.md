@@ -37,3 +37,55 @@ Will be added later on
 
 ## 3.2 Requirements Traceability Matrix
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 7. Risks, Assumptions, and Constraints
+
+## 7.1 Risks
+
+1.Problems with hosting services or connecting with other services like Google Maps could make the app unavailable or not work properly.
+2.Security issues could happen, like someone accessing user data without permission.
+3.There might be challenges in building features like real-time collaboration or offline access, which could delay the project.
+4.Users may find it hard to use the app, especially if they are used to other trip-planning tools.
+5.Unexpected costs for services or scaling the app could go over the planned budget.
+
+
+## 7.2 Risk Evaluation Chart
+
+
+## 7.2 Assumptions
+
+1.Other services like Google Maps will work reliably with little downtime.
+2.Users will have good internet access to use real-time and collaborative features.
+3.Users will provide correct and timely information for their trips.
+4.The app will be used by people from different countries, so it will need to support multiple languages.
+
+
+## 7.3 Constraints
+
+
+
+
+## 7.4 Quality Assurance
+
+  QA
+
+
+
+
+
+
