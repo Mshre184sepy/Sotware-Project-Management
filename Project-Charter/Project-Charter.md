@@ -58,7 +58,14 @@ INSERT VALUE AT THIS SPOT
 | Item | Qtd | Cost/Item | Total Cost |
 | ---- | --- | --------- | ---------- |
 | Hosting | 1 | 49.99 CADs/Month | 599.88 CADs/year |
-
+| Domain | 1 | 12.99 CADs/Year | 12.99 CADs/year | 
+| Apple App Store Fees | 1 | 129.00 CADs/Year | 129.00 CADs/Year |
+| Google Play Store Fees | 1 | 34.00 CADs (One-Time) | 34.00 CADs (One-Time) |
+| SSL Certificate | 1 | 70.00 CADs/Year | 70.00 CADs/Year |
+| Backend Maintenance | 1 | 80.00 CADs/Month | 960.00 CADs/Year | 
+| Google Maps API | 1 | 0-200.00 CADs/Month | 0-2400 CADs/Year |
+| UI/UX Design Tools | 1 | 20.00 CADs/Month | 240.00 CADs/Year |
+| Multilingual Services | 1 | 100.00 CADs/Month | 1200.00 CADs/Year |
 
 ## 5.4 Contigency
 INSERT VALUE AND CALCULATION AT THIS SPOT
