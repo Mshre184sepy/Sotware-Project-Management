@@ -48,15 +48,21 @@ Will be added later on
 ## 5.0 Preliminary Budget
 
 ## 5.1 Personnel Cost Per Sprint
+INSERT TABLE AT THIS SPOT
 
 ## 5.2 Total Personnel Cost
+INSERT VALUE AT THIS SPOT
 
 ## 5.3 Fixed Costs
 
+| Item | Qtd | Cost/Item | Total Cost |
+| ---- | --- | --------- | ---------- |
+
 ## 5.4 Contigency
+INSERT VALUE AND CALCULATION AT THIS SPOT
 
 ## 5.5 Total Estimated Cost
-
+INSERT SUMMARIZED TABLE AT THIS SPOT
 
 ## 6. Organization/Stakeholders
 
