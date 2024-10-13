@@ -113,8 +113,6 @@ The stakeholder matrix will be added later on
 
 
 
-
-
 ## 7.4 Quality Assurance
 QA
 
