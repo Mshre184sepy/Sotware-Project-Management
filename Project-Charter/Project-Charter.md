@@ -41,6 +41,11 @@ Will be added later on
 
 
 ## 4. Deliverables
+1. Wireframes and Prototypes - High-fidelity designs outlining the app’s user interface and interactions.
+2. Functional Mobile Application - A fully functional app featuring core trip planning, sharing, and data security functionalities.
+3. User Documentation - A complete user guide detailing navigation and feature usage.
+4. Integrated API Services - Fully configured services for mapping, language support, and cloud data storage.
+5. Security Protocol Implementation - Full integration of encryption protocols to protect user data during transmission and storage.
 
 ## 4.1 Gantt Chart
 
