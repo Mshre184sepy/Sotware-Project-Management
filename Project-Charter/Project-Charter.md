@@ -37,6 +37,7 @@ Will be added later on
 
 ## 3.2 Requirements Traceability Matrix
 
+![image](https://github.com/user-attachments/assets/8ec36f3f-748b-444f-afd5-f0bb0e91212a)
 
 
 ## 4. Deliverables
@@ -60,7 +61,9 @@ Will be added later on
 
 ## 6. Organization/Stakeholders
 
+<img width="735" alt="image" src="https://github.com/user-attachments/assets/8e15e9bf-e340-44a2-8fac-93919102b7db">
 
+The stakeholder matrix will be added later on
 
 
 ## 7. Risks, Assumptions, and Constraints
