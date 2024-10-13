@@ -57,6 +57,8 @@ INSERT VALUE AT THIS SPOT
 
 | Item | Qtd | Cost/Item | Total Cost |
 | ---- | --- | --------- | ---------- |
+| Hosting | 1 | 49.99 CADs/Month | 599.88 CADs/year |
+
 
 ## 5.4 Contigency
 INSERT VALUE AND CALCULATION AT THIS SPOT
