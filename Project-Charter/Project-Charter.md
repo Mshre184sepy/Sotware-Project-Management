@@ -32,7 +32,9 @@ By concentrating on travel-related information and facilitating easy collaborati
 10. Features for managing profiles, registering users, and logging in are put into practice and evaluated. Security precautions including social media login choices and password hashing are also examined.
 
 ## 3.1 Work Breakdown Structure 
-Will be added later on
+
+![image](https://github.com/user-attachments/assets/8c091de5-d580-4629-b4a5-dcdca5baf60e)
+
 
 
 ## 3.2 Requirements Traceability Matrix
