@@ -39,7 +39,8 @@ By concentrating on travel-related information and facilitating easy collaborati
 
 ## 3.2 Requirements Traceability Matrix
 
-![image](https://github.com/user-attachments/assets/8ec36f3f-748b-444f-afd5-f0bb0e91212a)
+![image](https://github.com/user-attachments/assets/821f8b59-6ae0-4e94-aa95-8e8db2cbf937)
+
 
 
 ## 4. Deliverables
