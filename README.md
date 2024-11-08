@@ -1,1 +1,5 @@
-# Workshop6--G2
+# Group 2
+### Shreya
+### Razan Naeyf
+### Jui SachinKumar Parikh
+### Melvin Ancheta
