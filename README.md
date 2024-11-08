@@ -1,5 +1,5 @@
 # Group 2
 ### Shreya
-### Razan Naeyf
+### Razan Nayef
 ### Jui SachinKumar Parikh
 ### Melvin Ancheta
