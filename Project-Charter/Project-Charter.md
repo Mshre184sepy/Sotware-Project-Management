@@ -19,7 +19,7 @@ By concentrating on travel-related information and facilitating easy collaborati
 
 
 
-## 3. Milstones 
+## 3. Milestones 
 1. The list of technology choices is specified and finalized for the database (Firebase, MongoDB), back-end (Node.js, Django), front-end (React, JavaScript, HTML), and hosting.
 2. A development environment is used to test a few static test screens once the front end and back end of the program have been configured.
 3. The app's template for sharing travel schedules and itineraries with others is integrated and functionally tested.
